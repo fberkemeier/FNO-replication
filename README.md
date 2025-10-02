@@ -74,7 +74,7 @@ where $\alpha$ controls sensitivity, and $\theta$ is the burden threshold for 50
 This enables simulation of dose-response curves and extraction of features such as replication-completion time $T_{95}(x,D)$, DSB loads, and tumour–healthy selectivity (Fig. 3).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7bc1ed83-3449-43b0-8a50-c4d2899d7a45" width="600"/><br>
+  <img src="https://github.com/user-attachments/assets/7bc1ed83-3449-43b0-8a50-c4d2899d7a45" width="800"/><br>
   <em>Figure 3. From kinetics to cell fate via physics-informed machine learning.  
   (a) Replication-completion time $T_{95}(x,D)$ increases with drug dose.  
   (b) DSB burden rises sigmoidally with dose due to fork collapse.  
